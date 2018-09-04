@@ -19,6 +19,8 @@ If you want your component to appear here, send a pull request to this repositor
 
 ## Extensions / Integrations
 
+- [sentinel-support](https://github.com/cdfive/sentinel-support): A support project for convenient sentinel integration.
+
 ## Blogs
 
 - [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
