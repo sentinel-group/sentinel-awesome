@@ -19,7 +19,7 @@ If you want your component to appear here, send a pull request to this repositor
 
 ## Extensions / Integrations
 
-- [sentinel-support](https://github.com/cdfive/sentinel-support): A support project for convenient sentinel integration.
+- [sentinel-support](https://github.com/cdfive/sentinel-support): A support project for convenient Sentinel integration including properties file configuration, ActiveMQ integration and a JdbcDataSource implementation.
 
 ## Blogs
 
