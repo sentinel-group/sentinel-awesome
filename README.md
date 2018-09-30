@@ -20,6 +20,7 @@ If you want your component to appear here, send a pull request to this repositor
 ## Extensions / Integrations
 
 - [sentinel-support](https://github.com/cdfive/sentinel-support): A support project for convenient Sentinel integration including properties file configuration, ActiveMQ integration and a JdbcDataSource implementation.
+- [sentinel-zuul-example](https://github.com/tigerMoon/sentinel-zuul-sample): A simple project integration Sentinel to Spring Cloud Zuul which provide Service and API Path level flow control management. 
 
 ## Blogs
 
