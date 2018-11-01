@@ -25,3 +25,5 @@ If you want your component to appear here, send a pull request to this repositor
 
 - [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel一体化监控解决方案 CrateDB+Grafana](https://blog.csdn.net/huyong1990/article/details/82392386) by [Young Hu](https://github.com/YoungHu)
+- [限流降级神器-哨兵(sentinel)原理分析](https://mp.weixin.qq.com/s/7_pCkamNv0269e5l9_Wz7w)
+- [限流降级神器-哨兵(sentinel)的资源调用链原理分析](https://mp.weixin.qq.com/s/UEzwD22YC6jpp02foNSXnw)
