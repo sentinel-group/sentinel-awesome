@@ -31,3 +31,4 @@ If you want your component to appear here, send a pull request to this repositor
 - [Sentinel 控制台监控数据持久化【MySQL】(Spring Data JPA)](https://www.cnblogs.com/cdfive2018/p/9838577.html) by [cdfive](https://github.com/cdfive)
 - [限流降级神器-哨兵(Sentinel)基于滑动时间窗口的实时指标统计分析](https://mp.weixin.qq.com/s/B1_7Kb_CxeKEAv43kdCWOA)  by [houyi](https://github.com/all4you)
 - [Sentinel学习笔记（1）-- 流量统计代码解析](https://www.jianshu.com/p/7936d7a57924)  by [ro9er](https://github.com/ro9er)
+- [Sentinel 控制台监控数据持久化【InfluxDB】](https://www.cnblogs.com/cdfive2018/p/9914838.html) by [cdfive](https://github.com/cdfive)
