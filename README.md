@@ -33,3 +33,4 @@ If you want your component to appear here, send a pull request to this repositor
 - [Sentinel 控制台监控数据持久化【InfluxDB】](https://www.cnblogs.com/cdfive2018/p/9914838.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel学习笔记（1）-- 流量统计代码解析](https://www.jianshu.com/p/7936d7a57924)  by [ro9er](https://github.com/ro9er)
 - [Sentinel学习笔记（2）-- 流量控制代码分析](https://www.jianshu.com/p/938709e94e43)  by [ro9er](https://github.com/ro9er)
+- [大流量下的服务质量治理 Dubbo Sentinel初涉](https://mp.weixin.qq.com/s/ergr_siI07VwwSRPFgsLvQ)  by [RyuGrade](https://github.com/RyuGrade)
