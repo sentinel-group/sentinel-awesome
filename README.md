@@ -35,6 +35,7 @@ If you want your component to appear here, send a pull request to this repositor
 
 ## Blogs
 
+- [Sentinel 如何介入 OpenTracing](https://juejin.im/post/5de32fe46fb9a071a828feeb) by [Zhang Shun](https://github.com/ZShUn)
 - [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
 - [在生产环境中使用 Sentinel 控制台](https://github.com/alibaba/Sentinel/wiki/在生产环境中使用-Sentinel) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
