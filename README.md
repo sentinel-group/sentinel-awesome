@@ -67,3 +67,6 @@ If you want your component to appear here, send a pull request to this repositor
   - [Sentinel 深入浅出之原理篇 DegradeSlot](https://www.jianshu.com/p/e910d4840e4a)
 - [Alibaba Sentinel RESTful 接口流控处理优化](https://www.jianshu.com/p/96f5980d9798) by [luanlouis](https://github.com/luanlouis)
 - [Sentinel 控制台前端开发环境搭建](https://www.cnblogs.com/cdfive2018/p/11084001.html) by [cdfive](https://github.com/cdfive)
+  - [Sentinel 深入浅出之原理篇 Context初始化 & Entry初始化](https://www.jianshu.com/p/e39ac47cd893)
+- [阿里巴巴开源限流降级神器Sentinel大规模生产级应用实践](https://mp.weixin.qq.com/s/AjHCUmygTr78yo9yMxMEyg) by[步崖]
+  
