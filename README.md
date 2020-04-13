@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome things (e.g. sample, extensions, blogs) for [Sentinel](https://github.com/alibaba/Sentinel).
+A curated list of awesome things (e.g. sample, extensions, blogs) for [Sentinel](https://github.com/alibaba/Sentinel). The icon <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official icon" height="16px"> means the component is maintained by official Sentinel group.
 
 If you want your component to appear here, send a pull request to this repository to add it. You can refer to the [contribution guidelines](./CONTRIBUTING.md).
 
@@ -10,24 +10,28 @@ If you want your component to appear here, send a pull request to this repositor
 
 - [Presentations](#presentations)
 - [Tutorials](#tutorials)
-- [Demos](#demos)
+- [Polyglot Support](#polyglot-support)
 - [Extensions / Integrations](#extensions--integrations)
 - [Blogs](#blogs)
 
 ## Presentations
 
-- Sentinel 1.6.0 网关流控新特性介绍-Eric Zhao (Dubbo Tech Day-201905-Beijing): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.6.0%20网关流控新特性介绍-Eric%20Zhao-DTED-201905.pdf)
-- Sentinel 微服务流控降级实践-Eric Zhao (Dubbo Tech Day-201907-Shenzhen): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%20微服务流控降级实践-Eric%20Zhao-DTED-201907.pdf)
-- Sentinel 1.7.0 新特性展望-Eric Zhao (Dubbo Tech Day-201910-Chengdu): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.7.0%20新特性展望-Eric%20Zhao-DTED-201910.pdf)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 1.6.0 网关流控新特性介绍-Eric Zhao (Dubbo Tech Day-201905-Beijing): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.6.0%20网关流控新特性介绍-Eric%20Zhao-DTED-201905.pdf)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 微服务流控降级实践-Eric Zhao (Dubbo Tech Day-201907-Shenzhen): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%20微服务流控降级实践-Eric%20Zhao-DTED-201907.pdf)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 1.7.0 新特性展望-Eric Zhao (Dubbo Tech Day-201910-Chengdu): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.7.0%20新特性展望-Eric%20Zhao-DTED-201910.pdf)
 
 ## Tutorials
 
-- [Sentinel Guides](https://github.com/sentinel-group/sentinel-guides)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Guides](https://github.com/sentinel-group/sentinel-guides)
 
-## Demos
+## Polyglot Support
+
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Golang](https://github.com/alibaba/sentinel-golang)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel C++](https://github.com/alibaba/sentinel-cpp)
 
 ## Extensions / Integrations
 
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [sentinel-cluster-server-envoy-rls](https://github.com/alibaba/Sentinel/tree/master/sentinel-cluster/sentinel-cluster-server-envoy-rls): Sentinel cluster token server for Envoy global rate limiting service
 - [sentinel-support](https://github.com/cdfive/sentinel-support): A support project for convenient Sentinel integration including properties file configuration, ActiveMQ integration and a JdbcDataSource implementation by [cdfive](https://github.com/cdfive)
 - [Sentinel dashboard multi-data-source adapter](https://github.com/finefuture/sentinel-dashboard-X): Sentinel dashboard multi-data-source adapter has integrated Apollo and Nacos configuration center for bidirectional modification persistence. Implemented by [finefuture](https://github.com/finefuture)
 - [Sentinel Rule Annotation Support](https://github.com/code1986/sentinel-lib): A third-party library that supports configuring flow rule and degrade rule using annotation. Implemented by [code1986](https://github.com/code1986)
@@ -35,11 +39,10 @@ If you want your component to appear here, send a pull request to this repositor
 
 ## Blogs
 
-- [Sentinel 如何接入 OpenTracing](https://juejin.im/post/5de32fe46fb9a071a828feeb) by [Zhang Shun](https://github.com/ZShUn)
-- [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
-- [在生产环境中使用 Sentinel 控制台](https://github.com/alibaba/Sentinel/wiki/在生产环境中使用-Sentinel) by [Eric Zhao](https://github.com/sczyh30)
-- [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
-- [Guideline: 从 Hystrix 迁移到 Sentinel](https://sentinelguard.io/zh-cn/blog/guideline-migrate-from-hystrix-to-sentinel.html) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [在生产环境中使用 Sentinel 控制台](https://github.com/alibaba/Sentinel/wiki/在生产环境中使用-Sentinel) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Guideline: 从 Hystrix 迁移到 Sentinel](https://sentinelguard.io/zh-cn/blog/guideline-migrate-from-hystrix-to-sentinel.html) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel 控制台监控数据持久化【MySQL】(Spring Data JPA)](https://www.cnblogs.com/cdfive2018/p/9838577.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel 控制台监控数据持久化【InfluxDB】](https://www.cnblogs.com/cdfive2018/p/9914838.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel一体化监控解决方案 CrateDB + Grafana](https://blog.csdn.net/huyong1990/article/details/82392386) by [Young Hu](https://github.com/YoungHu)
@@ -67,6 +70,7 @@ If you want your component to appear here, send a pull request to this repositor
   - [Sentinel 深入浅出之原理篇 DegradeSlot](https://www.jianshu.com/p/e910d4840e4a)
 - [Alibaba Sentinel RESTful 接口流控处理优化](https://www.jianshu.com/p/96f5980d9798) by [luanlouis](https://github.com/luanlouis)
 - [Sentinel 控制台前端开发环境搭建](https://www.cnblogs.com/cdfive2018/p/11084001.html) by [cdfive](https://github.com/cdfive)
-  - [Sentinel 深入浅出之原理篇 Context初始化 & Entry初始化](https://www.jianshu.com/p/e39ac47cd893)
-- [阿里巴巴开源限流降级神器Sentinel大规模生产级应用实践](https://mp.weixin.qq.com/s/AjHCUmygTr78yo9yMxMEyg) by[步崖]
+- [Sentinel 如何接入 OpenTracing](https://juejin.im/post/5de32fe46fb9a071a828feeb) by [Zhang Shun](https://github.com/ZShUn)
+- [阿里 Sentinel 源码解析](https://www.javadoop.com/post/sentinel) by [Javadoop](https://www.javadoop.com)
+- [阿里巴巴开源限流降级神器 Sentinel 大规模生产级应用实践](https://mp.weixin.qq.com/s/AjHCUmygTr78yo9yMxMEyg) by 步崖
   
