@@ -19,6 +19,7 @@ If you want your component to appear here, send a pull request to this repositor
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 1.6.0 网关流控新特性介绍-Eric Zhao (Dubbo Tech Day-201905-Beijing): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.6.0%20网关流控新特性介绍-Eric%20Zhao-DTED-201905.pdf)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 微服务流控降级实践-Eric Zhao (Dubbo Tech Day-201907-Shenzhen): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%20微服务流控降级实践-Eric%20Zhao-DTED-201907.pdf)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 1.7.0 新特性展望-Eric Zhao (Dubbo Tech Day-201910-Chengdu): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.7.0%20新特性展望-Eric%20Zhao-DTED-201910.pdf)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> 《微服务容易挂？Sentinel Go 让微服务稳如磐石》-Eric Zhao (Spring Cloud Alibaba Meetup 1205 杭州站): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/SCA%20Meetup%20Hangzhou-20201205-Sentinel%20Go-Eric%20Zhao.pdf)
 
 ## Tutorials
 
@@ -26,7 +27,7 @@ If you want your component to appear here, send a pull request to this repositor
 
 ## Polyglot Support
 
-- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Golang](https://github.com/alibaba/sentinel-golang)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Go](https://github.com/alibaba/sentinel-golang)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel C++](https://github.com/alibaba/sentinel-cpp)
 
 ## Extensions / Integrations
@@ -43,6 +44,7 @@ If you want your component to appear here, send a pull request to this repositor
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [在生产环境中使用 Sentinel 控制台](https://github.com/alibaba/Sentinel/wiki/在生产环境中使用-Sentinel) by [Eric Zhao](https://github.com/sczyh30)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Guideline: 从 Hystrix 迁移到 Sentinel](https://sentinelguard.io/zh-cn/blog/guideline-migrate-from-hystrix-to-sentinel.html) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Go 正式 GA，助力云原生服务稳稳稳](https://sentinelguard.io/zh-cn/blog/sentinel-go-ga-release.html) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel 控制台监控数据持久化【MySQL】(Spring Data JPA)](https://www.cnblogs.com/cdfive2018/p/9838577.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel 控制台监控数据持久化【InfluxDB】](https://www.cnblogs.com/cdfive2018/p/9914838.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel一体化监控解决方案 CrateDB + Grafana](https://blog.csdn.net/huyong1990/article/details/82392386) by [Young Hu](https://github.com/YoungHu)
