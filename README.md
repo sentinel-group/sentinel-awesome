@@ -29,6 +29,7 @@ If you want your component to appear here, send a pull request to this repositor
 
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Go](https://github.com/alibaba/sentinel-golang)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel C++](https://github.com/alibaba/sentinel-cpp)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Rust](https://github.com/sentinel-group/sentinel-rust)
 
 ## Extensions / Integrations
 
