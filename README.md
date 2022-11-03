@@ -20,6 +20,7 @@ If you want your component to appear here, send a pull request to this repositor
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 微服务流控降级实践-Eric Zhao (Dubbo Tech Day-201907-Shenzhen): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%20微服务流控降级实践-Eric%20Zhao-DTED-201907.pdf)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 1.7.0 新特性展望-Eric Zhao (Dubbo Tech Day-201910-Chengdu): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.7.0%20新特性展望-Eric%20Zhao-DTED-201910.pdf)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> 《微服务容易挂？Sentinel Go 让微服务稳如磐石》-Eric Zhao (Spring Cloud Alibaba Meetup 1205 杭州站): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/SCA%20Meetup%20Hangzhou-20201205-Sentinel%20Go-Eric%20Zhao.pdf)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> Sentinel 2.0 流量治理全面升级-Eric Zhao (2022中间件开发者大会): [PDF](https://github.com/mse-group/Slides/blob/main/中间件开发者大会/10%20-%20赵奕豪(宿何)%20-Sentinel%202.0%20流量治理全面升级.pdf)
 
 ## Tutorials
 
@@ -46,6 +47,7 @@ If you want your component to appear here, send a pull request to this repositor
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Guideline: 从 Hystrix 迁移到 Sentinel](https://sentinelguard.io/zh-cn/blog/guideline-migrate-from-hystrix-to-sentinel.html) by [Eric Zhao](https://github.com/sczyh30)
 - <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Go 正式 GA，助力云原生服务稳稳稳](https://sentinelguard.io/zh-cn/blog/sentinel-go-ga-release.html) by [Eric Zhao](https://github.com/sczyh30)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel 1.8.6 版本发布，初步支持 OpenSergo 流量治理标准](https://sentinelguard.io/zh-cn/blog/sentinel-1-8-6-release.html) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel 控制台监控数据持久化【MySQL】(Spring Data JPA)](https://www.cnblogs.com/cdfive2018/p/9838577.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel 控制台监控数据持久化【InfluxDB】](https://www.cnblogs.com/cdfive2018/p/9914838.html) by [cdfive](https://github.com/cdfive)
 - [Sentinel一体化监控解决方案 CrateDB + Grafana](https://blog.csdn.net/huyong1990/article/details/82392386) by [Young Hu](https://github.com/YoungHu)
@@ -76,4 +78,5 @@ If you want your component to appear here, send a pull request to this repositor
 - [Sentinel 如何接入 OpenTracing](https://juejin.im/post/5de32fe46fb9a071a828feeb) by [Zhang Shun](https://github.com/ZShUn)
 - [阿里 Sentinel 源码解析](https://www.javadoop.com/post/sentinel) by [Javadoop](https://www.javadoop.com)
 - [阿里巴巴开源限流降级神器 Sentinel 大规模生产级应用实践](https://mp.weixin.qq.com/s/AjHCUmygTr78yo9yMxMEyg) by 步崖
-  
+- [Introduction to Alibaba Sentinel](https://www.baeldung.com/java-sentinel-intro) by [Amit Bhave](https://github.com/Amitbhave)
+- <img src="https://raw.githubusercontent.com/sentinel-group/sentinel-awesome/master/sentinel_favicon.ico" title="Sentinel official" height="16px"> [Sentinel Go 毫秒级统计数据结构揭秘](https://sentinelguard.io/zh-cn/blog/sentinel-go-internal-data-structure.html) by [Binbin Zhang](https://github.com/binbin0325)
